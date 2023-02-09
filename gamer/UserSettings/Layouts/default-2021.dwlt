@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 414
+=======
+  controlID: 44
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +229,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 22
+=======
+  controlID: 45
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +258,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 23
+=======
+  controlID: 46
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -385,22 +397,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/Scripts
+=======
+    - Assets
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets/Scripts
+=======
+  - Assets
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\24.martin.garcia\Downloads\yaboi\CODMobile\gamer
+  m_LastProjectPath: D:\marithzaramirez\backup1\CODMobile\gamer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: cc970000
     m_LastClickedID: 38860
     m_ExpandedIDs: 00000000926c0000de8c0000fc8c000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 0ec80000
+    m_LastClickedID: 51214
+    m_ExpandedIDs: 000000000ec8000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -428,7 +454,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000926c0000
+=======
+    m_ExpandedIDs: 
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -455,7 +485,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -558,7 +588,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: 8c96feff8e96feff0c9efeffa2a6feff46b0feff3ebffeff42bffeff6ebffeff10c2feff3ec4feff5ec7feff18c8feff46cafeff50ccfeff7acefeffa6d3feff76d4feff9654ffff6466ffffae9fffffb69fffffba9fffffbe9ffffff2a6fffff6a6fffffaa6ffff28aeffff2caeffff30aeffff16b9ffff1ab9ffff0af2ffff32f2ffff28fbffff826b0000886b000070af00008eaf0000
+=======
+      m_ExpandedIDs: 48adffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -669,7 +703,7 @@ MonoBehaviour:
       containerId: overlay-toolbar__top
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
