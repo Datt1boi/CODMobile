@@ -16,7 +16,7 @@ public class LoadFight : MonoBehaviour
     {
         
     }
-    public void LoadSampleScene()
+    public void LoadLevel1()
     {
         SceneManager.LoadScene("Level 1");
     }

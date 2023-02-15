@@ -6,7 +6,7 @@ using TMPro;
 using UnityEngine.SceneManagement;
 using System;
 
-public class EnemyHealth : MonoBehaviour
+public class EnemyHealthL2 : MonoBehaviour
 {
     
     public int health = 10;
@@ -14,7 +14,7 @@ public class EnemyHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        EnemyhealthText.text = "SUAH: " + health;
+        EnemyhealthText.text = "NICK: " + health;
     }
     public void OnCollisionEnter2D(Collision2D collision)
     {
@@ -24,7 +24,7 @@ public class EnemyHealth : MonoBehaviour
             health--;
             if (health <= 0)
             {
-                SceneManager.LoadScene("L2pre");
+                SceneManager.LoadScene("L3pre");
             }
           
         }
