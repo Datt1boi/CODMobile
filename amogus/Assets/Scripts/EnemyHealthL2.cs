@@ -24,7 +24,7 @@ public class EnemyHealthL2 : MonoBehaviour
             health--;
             if (health <= 0)
             {
-                SceneManager.LoadScene("L3pre");
+                SceneManager.LoadScene("WinScreen");
             }
           
         }
