@@ -47,7 +47,6 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
-    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -90,7 +89,6 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
-    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Background
@@ -114,7 +112,6 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 4, y: 4}
-    spritePosition: {x: 0, y: 0}
   characterData:
     bones: []
     parts: []

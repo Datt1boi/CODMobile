@@ -615,7 +615,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 358890581}
   m_CullTransparentMesh: 1
---- !u!1 &411233938
+--- !u!1 &414769864
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -623,27 +623,27 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 411233941}
-  - component: {fileID: 411233940}
-  - component: {fileID: 411233939}
+  - component: {fileID: 414769867}
+  - component: {fileID: 414769866}
+  - component: {fileID: 414769865}
   m_Layer: 0
-  m_Name: sussy_1
+  m_Name: bab_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &411233939
+--- !u!95 &414769865
 Animator:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 411233938}
+  m_GameObject: {fileID: 414769864}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e3dcfe2e10599a242bdbddc9b6ded344, type: 2}
+  m_Controller: {fileID: 9100000, guid: f682cc2afe7c3514aa9b85aafc9c0dd6, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -653,13 +653,13 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!212 &411233940
+--- !u!212 &414769866
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 411233938}
+  m_GameObject: {fileID: 414769864}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -693,32 +693,32 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
-  m_Sprite: {fileID: 1137820100, guid: ba3f5ae20f4e1e644aca8693a799c7d4, type: 3}
+  m_SortingOrder: 22
+  m_Sprite: {fileID: 43099838, guid: 3fabe7832a544a442b2ea26a6be45390, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.3803765, y: 1.4571428}
+  m_Size: {x: 1.3803765, y: 1.6171429}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!4 &411233941
+--- !u!4 &414769867
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 411233938}
+  m_GameObject: {fileID: 414769864}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.6, y: -1.58, z: 0}
-  m_LocalScale: {x: 2.02878, y: 2.059296, z: 1}
+  m_LocalPosition: {x: -1.0619, y: -1.42, z: 0}
+  m_LocalScale: {x: 2.882937, y: 2.9069912, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &499277058
 GameObject:
@@ -958,7 +958,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &799279198
 GameObject:
@@ -1773,7 +1773,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' AMOGUS RAMPAGE'
+  m_text: MEME RAMPAGE
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bb1fb75f19213c946830375f59e5dc98, type: 2}
   m_sharedMaterial: {fileID: 6178978658552450321, guid: bb1fb75f19213c946830375f59e5dc98, type: 2}
