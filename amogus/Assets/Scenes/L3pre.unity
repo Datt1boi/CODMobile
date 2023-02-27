@@ -452,7 +452,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: a83be38c044ba284f9ecdc346fd96c58, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.5032611
+      value: 0.5046825
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: a83be38c044ba284f9ecdc346fd96c58, type: 3}
       propertyPath: m_LocalScale.y
@@ -460,7 +460,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: a83be38c044ba284f9ecdc346fd96c58, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.3753
+      value: 0.746
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: a83be38c044ba284f9ecdc346fd96c58, type: 3}
       propertyPath: m_LocalPosition.y
@@ -650,7 +650,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: 4015b915a68743b4191dbdff03b42ede, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.6560908
+      value: 0.63168424
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: 4015b915a68743b4191dbdff03b42ede, type: 3}
       propertyPath: m_LocalScale.y
@@ -658,7 +658,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: 4015b915a68743b4191dbdff03b42ede, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.8037
+      value: 4.0377
       objectReference: {fileID: 0}
     - target: {fileID: -1290079913423108808, guid: 4015b915a68743b4191dbdff03b42ede, type: 3}
       propertyPath: m_LocalPosition.y
@@ -801,8 +801,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: CONTINUE
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bb1fb75f19213c946830375f59e5dc98, type: 2}
-  m_sharedMaterial: {fileID: 6178978658552450321, guid: bb1fb75f19213c946830375f59e5dc98, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
